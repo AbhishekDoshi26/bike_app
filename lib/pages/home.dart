@@ -76,7 +76,7 @@ class HomeView extends StatelessWidget {
               'BIKES\nCOLLECTIONS',
               style: TextStyle(
                 color: Colors.white,
-                fontSize: 60,
+                fontSize: 50,
                 fontWeight: FontWeight.bold,
               ),
             ),
